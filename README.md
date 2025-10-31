@@ -24,7 +24,7 @@
   <!-- ABOUT ME -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MasterChicken15&label=Profile%20views&color=0e75b6&style=flat" alt="MasterChicken15" /> </p>
 <img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/qGhQpBVaqJ8AAAAC/ado-ado-cute.gif" />
-✔ I’m currently Developing an Organization App<br>
+✔ I’m currently Developing Random Apps<br>
 ✔ I’m currently learning Node.JS and Java<br>
 ✔ I’m try to colaborate with Binary Brains <a href="https://www.google.com](https://www.instagram.com/upiicsa_oficial/">@UPIICSA</a><br>
 ✔ I regularly make random 3D models and drawings <br>
