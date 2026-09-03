@@ -12,7 +12,7 @@
 
   <!-- WELCOME MESSAGE -->
   <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=print(Hello+Potato)" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=print(Hola+Caras+de+Bola)" alt="Headline" />
   </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -30,7 +30,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
   <!-- LANGUAGES AND TOOLS -->
-<H3 align="center">I CAN USE</H3>
+<H3 align="center">Le sé a...</H3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
