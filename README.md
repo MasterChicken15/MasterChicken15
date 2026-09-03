@@ -44,7 +44,7 @@
 </p><br><br>
 
   <!-- ACTIVITY AND CONTRIBUTIONS -->
-<H3 align="center">AND I DO</H3>
+<H3 align="center">Y hago</H3>
 <div align="Center">
 
 | MasterChicken's Stats | Most Lang |
