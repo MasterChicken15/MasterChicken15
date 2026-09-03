@@ -9,14 +9,10 @@
 
 
   <!-- BANNER -->
-<p align="center">
-  <img src="https://scontent.fmex33-1.fna.fbcdn.net/v/t39.30808-6/559429947_122217099212114671_287014134211290555_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=R_NcBEzTDWYQ7kNvwHTzc8R&_nc_oc=AdlBUYtQqcaokAVo11iqry9z5KJRSlYhsu-w3kbZYHkpUPZCrm_G4jg8YV5FBVqhVSRvpFEhkULF3tPiEPW6QtXj&_nc_zt=23&_nc_ht=scontent.fmex33-1.fna&_nc_gid=UjQNqnG9g-ICcGaCsBW12g&oh=00_AfdIZ_prGr5Chl9uMTUJM7km1DwTd1MPeK6IivFQRVIYpA&oe=690A17A1" height="200"/>
-</p>
-
 
   <!-- WELCOME MESSAGE -->
   <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=print(Hello+Everyone)" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=print(Hello+Potato)" alt="Headline" />
   </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -24,11 +20,12 @@
   <!-- ABOUT ME -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MasterChicken15&label=Profile%20views&color=0e75b6&style=flat" alt="MasterChicken15" /> </p>
 <img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/qGhQpBVaqJ8AAAAC/ado-ado-cute.gif" />
-✔ I’m currently Developing Random Apps<br>
+✔ I enjoy develop Random Apps<br>
 ✔ I’m currently learning Node.JS and Java<br>
+✔ Active member in Valdivia Motosport IPN<br>
 ✔ I’m try to colaborate with Binary Brains <a href="https://www.google.com](https://www.instagram.com/upiicsa_oficial/">@UPIICSA</a><br>
-✔ I regularly make random 3D models and drawings <br>
-✔ I use Spotify like a psycho<br>
+✔ Making random things when I was bored<br>
+✔ Music lover<br>
 ✔ Fun fact : I love Imagine Dragons🐉<br><br><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
