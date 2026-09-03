@@ -1,5 +1,5 @@
   <!-- SOCIAL MEDIA LOGOS -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="right">
   <a href="https://www.instagram.com/master_chicken15/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="aksia" height="35" width="35" /></a>
   <a href="https://www.facebook.com/profile.php?id=61553440130661" target="blank"><img align="center" src="https://www.pngarts.com/files/10/Vector-Facebook-Logo-Black-And-White-PNG-Transparent-Image.png" height="35" width="35" /></a>
