@@ -20,13 +20,13 @@
   <!-- ABOUT ME -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MasterChicken15&label=Profile%20views&color=0e75b6&style=flat" alt="MasterChicken15" /> </p>
 <img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/qGhQpBVaqJ8AAAAC/ado-ado-cute.gif" />
-✔ I enjoy develop Random Apps<br>
-✔ I’m currently learning Node.JS and Java<br>
-✔ Active member in Valdivia Motosport IPN<br>
-✔ I’m try to colaborate with Binary Brains <a href="https://www.google.com](https://www.instagram.com/upiicsa_oficial/">@UPIICSA</a><br>
-✔ Making random things when I was bored<br>
-✔ Music lover<br>
-✔ Fun fact : I love Imagine Dragons🐉<br><br><br><br>
+✔ Me encanta desarrollar apps<br>
+✔ Me encuentro aprendiendo Networking y Java<br>
+✔ Miembro activo en Valdivia IPN<br>
+✔ Trato de colaborar en Binary Brains<a href="https://www.google.com](https://www.instagram.com/upiicsa_oficial/">@UPIICSA</a><br>
+✔ Haciendo cosas random cuando estoy aburrido<br>
+✔ Loco por la música<br>
+✔ Fun fact : Amo Imagine Dragons🐉<br><br><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
   <!-- LANGUAGES AND TOOLS -->
